@@ -5,3 +5,5 @@ def result(a, b ,d):
         return a * b
     elif d == 3:
         return a - b
+    elif d == 4:
+        return a / b
