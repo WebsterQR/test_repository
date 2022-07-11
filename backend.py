@@ -7,3 +7,7 @@ def result(a, b ,d):
         return a - b
     elif d == 4:
         return a / b
+
+
+def nod(x, y):
+    return (x + y) / 0
